@@ -12,7 +12,7 @@ class ColorGameApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Color — dialed.gg Clone',
+      title: 'Colors',
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: ThemeMode.system,
